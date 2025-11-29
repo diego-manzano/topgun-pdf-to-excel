@@ -1,0 +1,204 @@
+{
+  "header": {
+    "customer_number": "1049850",
+    "business_location_id": "100000040277201",
+    "business_location_name": "Top Gun 747 Corporation",
+    "date_from": "01 Nov 2025",
+    "date_to": "03 Nov 2025",
+    "reimbursement_batch": "5216"
+  },
+  "transactions": [
+    {
+      "terminal_id": "20020788",
+      "host_batch_id": "28916273",
+      "ids": "13398430",
+      "settle_date": "11/01/2025 1:58PM",
+      "no_of_txn": 3,
+      "gross_amount": 5757.21,
+      "ewt": 51.41,
+      "net_amount": 5705.8,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "20020788",
+      "host_batch_id": "28916604",
+      "ids": "13398761",
+      "settle_date": "11/01/2025 10:01PM",
+      "no_of_txn": 2,
+      "gross_amount": 997.64,
+      "ewt": 8.91,
+      "net_amount": 988.73,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28916857",
+      "ids": "13399842",
+      "settle_date": "11/01/2025 12:00AM",
+      "no_of_txn": 7,
+      "gross_amount": 8145.41,
+      "ewt": 72.73,
+      "net_amount": 8072.68,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28917136",
+      "ids": "13399841",
+      "settle_date": "11/01/2025 12:00AM",
+      "no_of_txn": 15,
+      "gross_amount": 17738.45,
+      "ewt": 158.39,
+      "net_amount": 17580.06,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28918111",
+      "ids": "13399840",
+      "settle_date": "11/01/2025 12:00AM",
+      "no_of_txn": 3,
+      "gross_amount": 4296.11,
+      "ewt": 38.36,
+      "net_amount": 4257.75,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28918115",
+      "ids": "13399839",
+      "settle_date": "11/01/2025 12:00AM",
+      "no_of_txn": 3,
+      "gross_amount": 3092.9,
+      "ewt": 27.62,
+      "net_amount": 3065.28,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28919726",
+      "ids": "13402614",
+      "settle_date": "11/02/2025 12:00AM",
+      "no_of_txn": 1,
+      "gross_amount": 1804.76,
+      "ewt": 16.11,
+      "net_amount": 1788.65,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28920099",
+      "ids": "13402613",
+      "settle_date": "11/02/2025 12:00AM",
+      "no_of_txn": 34,
+      "gross_amount": 42816.21,
+      "ewt": 382.29,
+      "net_amount": 42433.92,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28920933",
+      "ids": "13402615",
+      "settle_date": "11/02/2025 12:00AM",
+      "no_of_txn": 13,
+      "gross_amount": 13706.08,
+      "ewt": 122.38,
+      "net_amount": 13583.7,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "20020788",
+      "host_batch_id": "28921640",
+      "ids": "13403797",
+      "settle_date": "11/03/2025 5:58AM",
+      "no_of_txn": 1,
+      "gross_amount": 2685.42,
+      "ewt": 23.98,
+      "net_amount": 2661.44,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "20020788",
+      "host_batch_id": "28921956",
+      "ids": "13404113",
+      "settle_date": "11/03/2025 2:05PM",
+      "no_of_txn": 3,
+      "gross_amount": 5376.84,
+      "ewt": 48.0,
+      "net_amount": 5328.84,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "20020788",
+      "host_batch_id": "28922369",
+      "ids": "13404526",
+      "settle_date": "11/03/2025 10:00PM",
+      "no_of_txn": 2,
+      "gross_amount": 2002.03,
+      "ewt": 17.87,
+      "net_amount": 1984.16,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28923152",
+      "ids": "13405737",
+      "settle_date": "11/03/2025 12:00AM",
+      "no_of_txn": 31,
+      "gross_amount": 38742.75,
+      "ewt": 345.94,
+      "net_amount": 38396.81,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28924539",
+      "ids": "13405738",
+      "settle_date": "11/03/2025 12:00AM",
+      "no_of_txn": 4,
+      "gross_amount": 7618.13,
+      "ewt": 68.02,
+      "net_amount": 7550.11,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28924666",
+      "ids": "13405739",
+      "settle_date": "11/03/2025 12:00AM",
+      "no_of_txn": 2,
+      "gross_amount": 1983.5,
+      "ewt": 17.71,
+      "net_amount": 1965.79,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28924737",
+      "ids": "13405740",
+      "settle_date": "11/03/2025 12:00AM",
+      "no_of_txn": 19,
+      "gross_amount": 21119.29,
+      "ewt": 188.57,
+      "net_amount": 20930.72,
+      "description": "Default Fleet Transaction (Prod Level)"
+    },
+    {
+      "terminal_id": "50035936",
+      "host_batch_id": "28924760",
+      "ids": "13405741",
+      "settle_date": "11/03/2025 12:00AM",
+      "no_of_txn": 2,
+      "gross_amount": 687.55,
+      "ewt": 6.14,
+      "net_amount": 681.41,
+      "description": "Default Fleet Transaction (Prod Level)"
+    }
+  ],
+  "totals": {
+    "gross_amount": 178570.28,
+    "ewt": 1594.43,
+    "net_amount": 176975.85
+  }
+}
