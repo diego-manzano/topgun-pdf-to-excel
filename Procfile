@@ -1,1 +1,1 @@
-Procfile
+web: python telegram_bot.py
